@@ -2,7 +2,7 @@
 
 `1.` [cache-aside](cache-aside)  
 `2.` [read-through-cache](read-through-cache)  
-`3.` Write-Through Cache  
+`3.` [write-through-cache](write-through-cache)  
 `4.` Write-Around  
 `5.` Write-Back or Write-Behind  
 
