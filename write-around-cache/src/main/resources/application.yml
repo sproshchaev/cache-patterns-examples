@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: write-around-cache-demo
+    name: write-around-cache
 
 logging:
   level:
