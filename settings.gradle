@@ -1,2 +1,3 @@
 rootProject.name = 'cache-patterns-examples'
 include 'cache-aside'
+include 'read-through-cache'

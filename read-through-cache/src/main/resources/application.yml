@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: read-through-cache
+
+logging:
+  level:
+    com.prosoft: DEBUG
+    org.springframework.web: INFO
