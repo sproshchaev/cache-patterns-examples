@@ -2,8 +2,8 @@
 
 `1.` [cache-aside](cache-aside)  
 `2.` [read-through-cache](read-through-cache)  
-`3.` [write-through-cache](write-through-cache)  
-`4.` Write-Around  
+`3.` [write-through-cache](write-through-cache)   
+`4.` [write-around-cache](write-around-cache)  
 `5.` Write-Back or Write-Behind  
 
 ## Сравнительная таблица паттернов
